@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f150899ec7884bbe95f603d37650468a/artifacts
+end_time: 1746107133769
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f150899ec7884bbe95f603d37650468a
+run_name: youthful-whale-664
+run_uuid: f150899ec7884bbe95f603d37650468a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746107125596
+status: 3
+tags: []
+user_id: sudegul

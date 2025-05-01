@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d33e32a2b36c413fab590f4fbbf7ef97/artifacts
+end_time: 1746102099579
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d33e32a2b36c413fab590f4fbbf7ef97
+run_name: monumental-yak-928
+run_uuid: d33e32a2b36c413fab590f4fbbf7ef97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746102091252
+status: 3
+tags: []
+user_id: sudegul

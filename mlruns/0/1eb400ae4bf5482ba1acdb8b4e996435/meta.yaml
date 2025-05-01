@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1eb400ae4bf5482ba1acdb8b4e996435/artifacts
+end_time: 1746107347181
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1eb400ae4bf5482ba1acdb8b4e996435
+run_name: incongruous-newt-520
+run_uuid: 1eb400ae4bf5482ba1acdb8b4e996435
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746107339800
+status: 3
+tags: []
+user_id: sudegul

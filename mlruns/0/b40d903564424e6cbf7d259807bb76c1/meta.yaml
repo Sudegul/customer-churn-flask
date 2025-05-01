@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b40d903564424e6cbf7d259807bb76c1/artifacts
+end_time: 1744969547417
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b40d903564424e6cbf7d259807bb76c1
+run_name: nimble-ape-942
+run_uuid: b40d903564424e6cbf7d259807bb76c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744969541225
+status: 4
+tags: []
+user_id: sudegul

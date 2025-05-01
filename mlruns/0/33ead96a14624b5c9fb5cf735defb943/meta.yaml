@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/33ead96a14624b5c9fb5cf735defb943/artifacts
+end_time: 1745400005342
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 33ead96a14624b5c9fb5cf735defb943
+run_name: sassy-turtle-222
+run_uuid: 33ead96a14624b5c9fb5cf735defb943
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745399993110
+status: 3
+tags: []
+user_id: sudegul

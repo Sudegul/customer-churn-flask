@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a5905de865eb45078d74df0149e93221/artifacts
+end_time: 1745254064043
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5905de865eb45078d74df0149e93221
+run_name: clean-koi-573
+run_uuid: a5905de865eb45078d74df0149e93221
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745254052395
+status: 3
+tags: []
+user_id: sudegul

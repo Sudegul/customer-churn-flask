@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5e82a4f2d3f04e528a42fc586d9aee43/artifacts
+end_time: 1745837677615
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e82a4f2d3f04e528a42fc586d9aee43
+run_name: sedate-hog-786
+run_uuid: 5e82a4f2d3f04e528a42fc586d9aee43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745837634222
+status: 3
+tags: []
+user_id: sudegul

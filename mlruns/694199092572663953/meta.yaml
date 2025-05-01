@@ -1,0 +1,6 @@
+artifact_location: file:///Users/sudegul/Desktop/Customer-Churn-Prediction/mlruns
+creation_time: 1744984854843
+experiment_id: '694199092572663953'
+last_update_time: 1744984854843
+lifecycle_stage: active
+name: Serve Local Model 2

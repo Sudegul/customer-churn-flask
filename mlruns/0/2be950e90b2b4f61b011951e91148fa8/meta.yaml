@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2be950e90b2b4f61b011951e91148fa8/artifacts
+end_time: 1744971293602
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2be950e90b2b4f61b011951e91148fa8
+run_name: skillful-hawk-858
+run_uuid: 2be950e90b2b4f61b011951e91148fa8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744971283756
+status: 3
+tags: []
+user_id: sudegul

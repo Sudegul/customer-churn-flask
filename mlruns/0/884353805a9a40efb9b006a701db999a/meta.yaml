@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/884353805a9a40efb9b006a701db999a/artifacts
+end_time: 1744970125602
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 884353805a9a40efb9b006a701db999a
+run_name: gifted-wasp-405
+run_uuid: 884353805a9a40efb9b006a701db999a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744970115673
+status: 4
+tags: []
+user_id: sudegul

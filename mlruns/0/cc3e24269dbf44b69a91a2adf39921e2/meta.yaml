@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/cc3e24269dbf44b69a91a2adf39921e2/artifacts
+end_time: 1746002725423
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc3e24269dbf44b69a91a2adf39921e2
+run_name: incongruous-slug-409
+run_uuid: cc3e24269dbf44b69a91a2adf39921e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746002716706
+status: 3
+tags: []
+user_id: sudegul

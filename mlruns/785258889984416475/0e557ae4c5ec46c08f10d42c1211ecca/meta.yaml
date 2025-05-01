@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/785258889984416475/0e557ae4c5ec46c08f10d42c1211ecca/artifacts
+end_time: 1744971875214
+entry_point_name: ''
+experiment_id: '785258889984416475'
+lifecycle_stage: active
+run_id: 0e557ae4c5ec46c08f10d42c1211ecca
+run_name: monumental-duck-677
+run_uuid: 0e557ae4c5ec46c08f10d42c1211ecca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744971866031
+status: 3
+tags: []
+user_id: sudegul

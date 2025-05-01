@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/125a4cfe3fa7458cabb5b76f84ac9536/artifacts
+end_time: 1746015512717
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 125a4cfe3fa7458cabb5b76f84ac9536
+run_name: brawny-fox-681
+run_uuid: 125a4cfe3fa7458cabb5b76f84ac9536
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746015504960
+status: 3
+tags: []
+user_id: sudegul

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/10c7616a06f14dfeba69c2c54386b89e/artifacts
+end_time: 1744970380566
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 10c7616a06f14dfeba69c2c54386b89e
+run_name: abundant-hare-848
+run_uuid: 10c7616a06f14dfeba69c2c54386b89e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744970371447
+status: 4
+tags: []
+user_id: sudegul

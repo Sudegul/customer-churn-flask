@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/785258889984416475/1db09c1122e9496da05142c9bc946761/artifacts
+end_time: 1744971839835
+entry_point_name: ''
+experiment_id: '785258889984416475'
+lifecycle_stage: active
+run_id: 1db09c1122e9496da05142c9bc946761
+run_name: gentle-deer-376
+run_uuid: 1db09c1122e9496da05142c9bc946761
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744971831006
+status: 3
+tags: []
+user_id: sudegul

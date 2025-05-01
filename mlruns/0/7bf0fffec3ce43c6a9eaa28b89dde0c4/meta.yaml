@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7bf0fffec3ce43c6a9eaa28b89dde0c4/artifacts
+end_time: 1745398046922
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7bf0fffec3ce43c6a9eaa28b89dde0c4
+run_name: shivering-sheep-282
+run_uuid: 7bf0fffec3ce43c6a9eaa28b89dde0c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745398035379
+status: 3
+tags: []
+user_id: sudegul

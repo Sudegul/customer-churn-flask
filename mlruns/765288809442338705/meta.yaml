@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/765288809442338705
+creation_time: 1744982750906
+experiment_id: '765288809442338705'
+last_update_time: 1744982750906
+lifecycle_stage: active
+name: Churn Local Serve

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/785258889984416475/a0eed8c24e3d431f9bb4506183dddab0/artifacts
+end_time: 1744971897360
+entry_point_name: ''
+experiment_id: '785258889984416475'
+lifecycle_stage: active
+run_id: a0eed8c24e3d431f9bb4506183dddab0
+run_name: Hyperopt Tuning
+run_uuid: a0eed8c24e3d431f9bb4506183dddab0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744971812669
+status: 3
+tags: []
+user_id: sudegul

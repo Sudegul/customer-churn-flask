@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/785258889984416475/49700bf158b84d80a297c11db60af41f/artifacts
+end_time: 1744971822298
+entry_point_name: ''
+experiment_id: '785258889984416475'
+lifecycle_stage: active
+run_id: 49700bf158b84d80a297c11db60af41f
+run_name: bald-foal-298
+run_uuid: 49700bf158b84d80a297c11db60af41f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744971820041
+status: 3
+tags: []
+user_id: sudegul

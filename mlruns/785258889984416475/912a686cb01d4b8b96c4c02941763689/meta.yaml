@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/785258889984416475/912a686cb01d4b8b96c4c02941763689/artifacts
+end_time: 1744971857060
+entry_point_name: ''
+experiment_id: '785258889984416475'
+lifecycle_stage: active
+run_id: 912a686cb01d4b8b96c4c02941763689
+run_name: auspicious-hare-62
+run_uuid: 912a686cb01d4b8b96c4c02941763689
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744971853800
+status: 3
+tags: []
+user_id: sudegul

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1746015049272
+current_stage: None
+description: ''
+last_updated_timestamp: 1746015049272
+name: CustomerChurnModel
+run_id: 3949b9ba35514a838293e6339b7bdcff
+run_link: ''
+source: mlflow-artifacts:/0/3949b9ba35514a838293e6339b7bdcff/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/0/3949b9ba35514a838293e6339b7bdcff/artifacts/model
+user_id: null
+version: 7

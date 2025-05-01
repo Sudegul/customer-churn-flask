@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c75da3aad81a436e89e7b0a2c3c250f1/artifacts
+end_time: 1745854119099
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c75da3aad81a436e89e7b0a2c3c250f1
+run_name: polite-shrimp-344
+run_uuid: c75da3aad81a436e89e7b0a2c3c250f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745854086147
+status: 3
+tags: []
+user_id: sudegul

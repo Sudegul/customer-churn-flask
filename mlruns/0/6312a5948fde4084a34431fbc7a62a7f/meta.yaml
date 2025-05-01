@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6312a5948fde4084a34431fbc7a62a7f/artifacts
+end_time: 1745852179437
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6312a5948fde4084a34431fbc7a62a7f
+run_name: charming-bug-822
+run_uuid: 6312a5948fde4084a34431fbc7a62a7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745852149913
+status: 3
+tags: []
+user_id: sudegul

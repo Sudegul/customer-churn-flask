@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5705fe895d4c44a39549401a5878af4d/artifacts
+end_time: 1745396701629
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5705fe895d4c44a39549401a5878af4d
+run_name: stately-carp-121
+run_uuid: 5705fe895d4c44a39549401a5878af4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745396692815
+status: 3
+tags: []
+user_id: sudegul

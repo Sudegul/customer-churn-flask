@@ -1,0 +1,45 @@
+artifacts_root: artifacts
+
+data_validation:
+  root_dir: artifacts\validation
+  data_dir: artifacts\raw_data\customer_churn_removed_col.csv
+  status_file: artifacts\validation\status.txt
+  make_data:
+    train_data: artifacts\validation\train.csv
+    test_data: artifacts\validation\test.csv
+
+
+data_to_train_model:
+  root_dir: artifacts\model_training_data
+  model_dir : artifacts\model
+  train_data_path: artifacts\validation\train.csv
+  test_data_path: artifacts\validation\test.csv
+  transform_X_train_path: artifacts\transformed_data\X_train_transformed.csv
+  y_train_path: artifacts\transformed_data\y_train.csv
+  transform_X_test_path: artifacts\transformed_data\X_test_transformed.csv
+  y_test_path: artifacts\transformed_data\y_test.csv
+  # preprocessor_obj: artifacts\model\preprocessorObj.pkl
+  preprocessor_obj: artifacts\model\preprocessorObj.joblib
+
+
+
+
+model_trainer:
+  model_dir : artifacts\model
+  train_data: artifacts\transformed_data\X_train_transformed.csv
+  test_data: artifacts\transformed_data\X_test_transformed.csv
+  # model_obj: artifacts\model\model.pkl
+  y_train_path: artifacts\transformed_data\y_train.csv
+  y_test_path: artifacts\transformed_data\y_test.csv
+
+
+
+mlflow_tracking:
+  mlflow_dir: artifacts\mlflowTracking
+  test_data: artifacts\transformed_data\X_test_transformed.csv
+  # model_obj_path : artifacts\model\model.pkl
+  model_obj_path : artifacts\model\model.joblib
+  metrics_file_name: artifacts\mlflowTracking\metrics.json
+  confusion_metrics: artifacts\mlflowTracking\confusion_metrics.jpg
+  y_test_path: artifacts\transformed_data\y_test.csv
+

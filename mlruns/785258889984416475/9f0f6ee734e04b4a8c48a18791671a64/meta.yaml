@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/785258889984416475/9f0f6ee734e04b4a8c48a18791671a64/artifacts
+end_time: 1744971853765
+entry_point_name: ''
+experiment_id: '785258889984416475'
+lifecycle_stage: active
+run_id: 9f0f6ee734e04b4a8c48a18791671a64
+run_name: rumbling-gull-534
+run_uuid: 9f0f6ee734e04b4a8c48a18791671a64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744971847955
+status: 3
+tags: []
+user_id: sudegul

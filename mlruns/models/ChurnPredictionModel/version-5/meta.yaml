@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1745258048621
+current_stage: None
+description: ''
+last_updated_timestamp: 1745258048621
+name: ChurnPredictionModel
+run_id: 0084a6ba318b46bc9bfa54ca5e1c32f1
+run_link: ''
+source: file:///Users/sudegul/Desktop/Customer-Churn-Prediction/mlruns/0084a6ba318b46bc9bfa54ca5e1c32f1/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///Users/sudegul/Desktop/Customer-Churn-Prediction/mlruns/0084a6ba318b46bc9bfa54ca5e1c32f1/artifacts/model
+user_id: null
+version: 5

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ac6e4f8c978f4f3099c510055bc11e03/artifacts
+end_time: 1746015370817
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac6e4f8c978f4f3099c510055bc11e03
+run_name: luxuriant-snail-452
+run_uuid: ac6e4f8c978f4f3099c510055bc11e03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746015363630
+status: 3
+tags: []
+user_id: sudegul

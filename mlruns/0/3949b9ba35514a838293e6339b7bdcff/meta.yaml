@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3949b9ba35514a838293e6339b7bdcff/artifacts
+end_time: 1746015049347
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3949b9ba35514a838293e6339b7bdcff
+run_name: handsome-elk-724
+run_uuid: 3949b9ba35514a838293e6339b7bdcff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746015040566
+status: 3
+tags: []
+user_id: sudegul

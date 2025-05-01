@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6df569f0c5ad40b886af706230dc9d1e/artifacts
+end_time: 1746106773533
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6df569f0c5ad40b886af706230dc9d1e
+run_name: capable-trout-51
+run_uuid: 6df569f0c5ad40b886af706230dc9d1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746106765134
+status: 3
+tags: []
+user_id: sudegul

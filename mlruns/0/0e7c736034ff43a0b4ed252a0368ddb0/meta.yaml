@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0e7c736034ff43a0b4ed252a0368ddb0/artifacts
+end_time: 1746013988179
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0e7c736034ff43a0b4ed252a0368ddb0
+run_name: bright-quail-580
+run_uuid: 0e7c736034ff43a0b4ed252a0368ddb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746013981062
+status: 3
+tags: []
+user_id: sudegul

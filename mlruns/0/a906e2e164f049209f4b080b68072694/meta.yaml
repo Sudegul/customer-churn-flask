@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a906e2e164f049209f4b080b68072694/artifacts
+end_time: 1746003227787
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a906e2e164f049209f4b080b68072694
+run_name: classy-croc-135
+run_uuid: a906e2e164f049209f4b080b68072694
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746003219749
+status: 3
+tags: []
+user_id: sudegul

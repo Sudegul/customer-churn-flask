@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b035972d88cb4a818af9027def58eef9/artifacts
+end_time: 1745256538098
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b035972d88cb4a818af9027def58eef9
+run_name: salty-wolf-505
+run_uuid: b035972d88cb4a818af9027def58eef9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745256518066
+status: 3
+tags: []
+user_id: sudegul

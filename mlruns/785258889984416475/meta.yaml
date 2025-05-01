@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/785258889984416475
+creation_time: 1744971811993
+experiment_id: '785258889984416475'
+last_update_time: 1744971811993
+lifecycle_stage: active
+name: Churn Hyperopt

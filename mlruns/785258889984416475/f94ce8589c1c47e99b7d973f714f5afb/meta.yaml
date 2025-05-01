@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/785258889984416475/f94ce8589c1c47e99b7d973f714f5afb/artifacts
+end_time: 1744971866006
+entry_point_name: ''
+experiment_id: '785258889984416475'
+lifecycle_stage: active
+run_id: f94ce8589c1c47e99b7d973f714f5afb
+run_name: tasteful-goat-610
+run_uuid: f94ce8589c1c47e99b7d973f714f5afb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744971861999
+status: 3
+tags: []
+user_id: sudegul

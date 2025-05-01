@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/785258889984416475/d4ccf4a35680493b81c0890b6c80ae4a/artifacts
+end_time: 1744971830981
+entry_point_name: ''
+experiment_id: '785258889984416475'
+lifecycle_stage: active
+run_id: d4ccf4a35680493b81c0890b6c80ae4a
+run_name: valuable-squid-992
+run_uuid: d4ccf4a35680493b81c0890b6c80ae4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744971828689
+status: 3
+tags: []
+user_id: sudegul

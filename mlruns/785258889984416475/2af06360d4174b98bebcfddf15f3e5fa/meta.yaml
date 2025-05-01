@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/785258889984416475/2af06360d4174b98bebcfddf15f3e5fa/artifacts
+end_time: 1744971886273
+entry_point_name: ''
+experiment_id: '785258889984416475'
+lifecycle_stage: active
+run_id: 2af06360d4174b98bebcfddf15f3e5fa
+run_name: bedecked-calf-438
+run_uuid: 2af06360d4174b98bebcfddf15f3e5fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744971883448
+status: 3
+tags: []
+user_id: sudegul

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sudegul/Desktop/Customer-Churn-Prediction/src/mlruns/0/1f7cbd4b19524da5ad2285304aeae766/artifacts
+end_time: 1744969516117
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f7cbd4b19524da5ad2285304aeae766
+run_name: debonair-jay-16
+run_uuid: 1f7cbd4b19524da5ad2285304aeae766
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744969509362
+status: 4
+tags: []
+user_id: sudegul
